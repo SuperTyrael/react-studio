@@ -1,9 +1,17 @@
 /* Add styling for your page here */
 
 .App {
-
+display: flex;
+  width: 100%;
 }
 
 .BakeryItem {
-  
+  background-color: #e5e7eb;
+  border-radius: 0.375rem;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+li{
+    list-style-type: none;
 }
